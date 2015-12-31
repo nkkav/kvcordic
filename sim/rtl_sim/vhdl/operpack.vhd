@@ -7,7 +7,8 @@
 --           * Dividers and modulo extractors (divqr, divq, divr)
 --           * Bit manipulation operators (bitinsert, bitextract)
 --             
--- Author  : Nikolaos Kavvadias (C) 2009, 2010, 2011, 2012, 2013, 2014
+-- Author  : Nikolaos Kavvadias (C) 2009, 2010, 2011, 2012, 2013, 2014, 2015, 
+--                                  2016
 -- Date    : 22-Feb-2014
 -- Revision: 0.0.0 (03/10/09)
 --           Initial version.

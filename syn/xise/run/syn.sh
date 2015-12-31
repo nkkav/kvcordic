@@ -1,6 +1,6 @@
 # Filename : syn.sh
-# Author   : Nikolaos Kavvadias 2013, 2014
-# Copyright: (C) 2013, 2014 Nikolaos Kavvadias
+# Author   : Nikolaos Kavvadias
+# Copyright: (C) 2013, 2014, 2015, 2016  Nikolaos Kavvadias
 
 #!/bin/bash
 
