@@ -52,7 +52,7 @@ integer cordic_hyp_steps[] = {
 integer gdirection; // {0: ROTATION, 1: VECTORING}
 integer gmode; // {0: CIRCULAR, 1: LINEAR, 2: HYPERBOLIC}
 
-void cordicopt(integer direction, integer mode, integer xin, integer yin, integer zin, integer *xout, integer *yout, integer *zout)
+void cordic(integer direction, integer mode, integer xin, integer yin, integer zin, integer *xout, integer *yout, integer *zout)
 {
   integer k, kk, d, x1, x2, y1, y2, z1, z2;
   integer x, y, z;
